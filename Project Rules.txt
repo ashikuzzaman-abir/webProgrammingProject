@@ -1,0 +1,44 @@
+		=========================================================
+		|<---------------WEB PROGRAMMING PROJECT--------------->|
+		=========================================================
+*File management rules:
+
+	img/ 			-> folder should containe only image files
+	  img/imgDataBase/	-> folder for containing uploaded data to the server
+	  img/imgPage/		-> folder for website end images such as icons etc,
+				   which we will use for building front end in the website
+	src/			-> folder is for all coding stuff aka source codes
+
+We will use HTML, CSS, Javascript and php
+
+Naming rules:
+	For HTML & CSS->
+		use lower case letters for setting class and id names
+		dont use space, instead use hyphen(-) in multi word names, example -> "box-left"
+		logically set each element's class, id and name fields name
+		don't use any mumbo jumbo type names
+		set the id and name field's name same for each elements
+		and it should be unique for each and every elements
+		css class definations must be design for multiple use, keep it in mind
+		you will understand it in the group meeting when we will discuss
+	For Javascript and PHP->
+		use camelCase typing naming rule for variable and function names example ->
+			var totalStudent = 12;
+			$dateAndTime = date();
+			function myFunction () {};
+vscode extensions->
+	Theme and Customization->
+		Material Theme
+		Material Theme Icons
+		Material Icon Theme
+		Bracket Pair Colorizer
+	Web Development Snippets->
+		Live Server
+		PHP Intelephese
+		Visual Studio IntelliCode
+	Change Settings->
+		turn on auto saving
+		turn on Editor: Word Wrap
+		
+		
+	
