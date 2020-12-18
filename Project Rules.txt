@@ -1,13 +1,6 @@
 		=========================================================
 		|<---------------WEB PROGRAMMING PROJECT--------------->|
 		=========================================================
-*File management rules:
-
-	img/ 			-> folder should containe only image files
-	  img/imgDataBase/	-> folder for containing uploaded data to the server
-	  img/imgPage/		-> folder for website end images such as icons etc,
-				   which we will use for building front end in the website
-	src/			-> folder is for all coding stuff aka source codes
 
 We will use HTML, CSS, Javascript and php
 
