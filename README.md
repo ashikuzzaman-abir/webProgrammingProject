@@ -2,7 +2,7 @@
 ** read ProjectRules.txt
 ** read Every README.md files first
 #		==========================================
-#		|<---------------WEB PROGRAMMING PROJECT------------>|
+#		|<---------------WEB PROGRAMMING PROJECT---------->|
 #		==========================================
 #				   Project: Pizza Bhai
 
