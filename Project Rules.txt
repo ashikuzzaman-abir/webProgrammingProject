@@ -1,6 +1,8 @@
 		=========================================================
 		|<---------------WEB PROGRAMMING PROJECT--------------->|
 		=========================================================
+												Project: Pizza Bhai
+
 
 We will use HTML, CSS, Javascript and php
 
@@ -19,7 +21,12 @@ Naming rules:
 			var totalStudent = 12;
 			$dateAndTime = date();
 			function myFunction () {};
-vscode extensions->
+	
+	***ATTENTION
+	Don"t forget to comment why you change something 
+
+
+VSCode extensions->
 	Theme and Customization->
 		Material Theme
 		Material Theme Icons
@@ -30,8 +37,11 @@ vscode extensions->
 		PHP Intelephese
 		Visual Studio IntelliCode
 	Change Settings->
-		turn on auto saving
-		turn on Editor: Word Wrap
+		Turn on auto saving
+		Turn on Editor: Word Wrap
+	Inline Comment Shortcut for every lang->		ctrl+/
+	For more keyboard Shortcut reference go from menu bar -> Help -> Keyboard Shortcut reference
+		
 		
 		
 	
