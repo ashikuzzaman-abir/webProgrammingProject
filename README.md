@@ -1,3 +1,6 @@
+#Atention
+** read Project Rules.txt
+** read Every README.md files first
 #		==========================================
 #		|<---------------WEB PROGRAMMING PROJECT--------------->|
 #		==========================================
