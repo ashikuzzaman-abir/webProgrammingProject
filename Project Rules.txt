@@ -1,7 +1,7 @@
 		=========================================================
 		|<---------------WEB PROGRAMMING PROJECT--------------->|
 		=========================================================
-												Project: Pizza Bhai
+				   Project: Pizza Bhai
 
 
 We will use HTML, CSS, Javascript and php
