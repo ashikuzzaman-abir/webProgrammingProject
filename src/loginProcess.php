@@ -7,7 +7,7 @@ $logpass= $_POST['logupass'];
 
 //server connection
 $dbname= "pizzabhai";
-$tblname= "empList";
+$tblname= "emplist";
 $conn= mysqli_connect("localhost","root","",$dbname);
 
 //session variables
